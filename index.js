@@ -62,7 +62,7 @@ function fetchProducts() {
 // fetchProductById(1)
 // output { id: 1, title: 'Product 1', price: 100 }
 
-// CHALLENGE 2 use the fetchProductById function from challenge 1 to return all the ids in a product array id array
+// CHALLENGE 2 use the fetchProductById function from challenge 1 to return all the ids in a product id array
 // async function fetchProductsById(idArr)
 // fetchProductsById([1, 2, 3])
 /* output [
